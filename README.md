@@ -1,4 +1,8 @@
-## Hi there 👋
+## Yoooo
+- Currently studying IT (CS) with specialization on Machine Learning and AI  
+- Dabbled in some game dev, web dev and other things, check my pins  
+  
+If you wanna talk about anything add me on discord: miapp  
 
 <!--
 **MichalPKN/MichalPKN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
