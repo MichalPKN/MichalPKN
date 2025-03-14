@@ -5,7 +5,8 @@
 If you wanna talk about anything add me on discord: miapp  
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michalpkn&show_icons=true&locale=en&layout=compact" alt="michalpkn" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michalpkn&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="michalpkn" /></p>
+
 
 <!--
 **MichalPKN/MichalPKN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
