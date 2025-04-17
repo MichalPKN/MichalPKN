@@ -1,4 +1,4 @@
-## Yoooo
+## Miapp
 - Currently studying IT (CS) with specialization on Machine Learning and AI  
 - Dabbled in some game dev, web dev and other things, check my pins  
   
