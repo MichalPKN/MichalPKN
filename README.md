@@ -1,6 +1,6 @@
 ## Miapp
-- Currently studying IT (CS) with specialization on Machine Learning and AI  
-- Dabbled in some game dev, web dev and other things, check my pins  
+- Currently studying IT (CS) with specialization on Machine Learning and AI, at the Technical University of Liberec.  
+- Dabbled in some game dev, web dev and other things, check my pins.  
   
 If you wanna talk about anything add me on discord: miapp  
 
